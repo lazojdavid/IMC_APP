@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">portafolio</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="pesoValor">pesoValor</string>
+    <string name="masanav">Masa Corporal</string>
+    <string name="calculo">CALULAR</string>
+    <string name ="resultado">Tu resultado es: </string>
+    <string name="recalcular">Recalcular</string>
+
+    <string name="title_bajoPeso">Bajo</string>
+    <string name="info_bajoPeso">Tienes que comer más ! </string>
+    <string name="title_pesoNormal">Normal</string>
+    <string name="info_pesoNormal">Valores normales, tranqui </string>
+    <string name="title_sobrePeso">SOBREPESO</string>
+    <string name="info_sobrePeso">UY! Bájale los tamales</string>
+    <string name="title_error">ERROR</string>
+    <string name="info_error">ERROR</string>
+</resources>

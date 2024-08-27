@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "backgroundApp">#070707</color>
+    <color name="background_color_secelect_buttom">#1E1C1C</color>
+    <color name="background_color_unselected_buttom">#2C2525</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_button">#BC18D8</color>
+    <color name="rangovalores">#257A0D</color>
+
+</resources>
